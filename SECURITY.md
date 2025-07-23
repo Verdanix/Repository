@@ -1,6 +1,6 @@
 # Security Policy
 
-[[NAME]] is committed to maintaining the security and integrity of my open-source projects. Everyone appreciates your help in keeping [[NAME]] secure.
+[NAME] is committed to maintaining the security and integrity of my open-source projects. Everyone appreciates your help in keeping [NAME] secure.
 
 ## Supported Versions
 
